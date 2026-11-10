@@ -87,18 +87,6 @@ public class Main {
             }
 
         }while(!nombre.equals("0"));
-
-
-
-
-
-
-
-
-
-
-
-
         le.close();
 
 
